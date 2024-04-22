@@ -9,7 +9,7 @@ white = (255, 255, 255)
 
 finish = False   # Check if application is running
 fps = 20  # Simulation speed, can be changed if needed
-frogNum = 100  # Number of frogs in each generation, can be changed if needed
+frogNum = 10000  # Number of frogs in each generation, can be changed if needed
 
 screen = pygame.display.set_mode((screen_width, screen_height))
 pygame.display.set_caption('Frogger-AI-bot')
